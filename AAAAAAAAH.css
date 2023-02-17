@@ -1,0 +1,8 @@
+body {
+background-image: url("giphy.gif");
+background-size: contain;
+}
+.container
+{
+	border-radius: 15px 15px
+}
